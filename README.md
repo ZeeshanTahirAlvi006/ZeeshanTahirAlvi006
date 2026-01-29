@@ -4,7 +4,7 @@
 **"Turning complex logic into elegant code, one `console.log` at a time."**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Building_Neural_Webs-0abde3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building_Websites-0abde3?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=ZeeshanTahirAlvi006&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
 </p>
 
