@@ -8,7 +8,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Status-Building_Websites-00d9ff?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=ZeeshanTahirAlvi006&label=Profile%20Views&color=7000ff&style=for-the-badge" alt="views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=ZeeshanTahirAlvi006&label=Profile%20Views&color=7000ff&style=for-the-badge" alt="views" /> -->
 </p>
 
 </div>
@@ -142,7 +142,7 @@ Optimizing algorithms and database performance
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/ZeeshanTahirAlvi006/ZeeshanTahirAlvi006/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/ZeeshanTahirAlvi006/ZeeshanTahirAlvi006/blob/output/github-contribution-grid-snake.svg)-->
 
 </div>
 
