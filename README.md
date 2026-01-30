@@ -83,12 +83,12 @@ console.log(zeeshan);
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=7000ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanTahirAlvi006&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=ff006e&currStreakLabel=00d9ff" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=7000ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanTahirAlvi006&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=ff006e&currStreakLabel=00d9ff" /> -->
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZeeshanTahirAlvi006&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d9ff&line=7000ff&point=ff006e" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" /> -->
 
 </div>
 
@@ -140,7 +140,7 @@ Optimizing algorithms and database performance
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🐍 Contribution Snake
+<!--### 🐍 Contribution Snake-->
 
 <!--![snake gif](https://github.com/ZeeshanTahirAlvi006/ZeeshanTahirAlvi006/blob/output/github-contribution-grid-snake.svg)-->
 
