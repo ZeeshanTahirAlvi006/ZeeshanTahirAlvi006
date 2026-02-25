@@ -55,7 +55,7 @@
 
 ```javascript
 const zeeshan = {
-    education: "BS Artificial Intelligence @ UMT (3rd Semester)",
+    education: "BS Artificial Intelligence @ UMT (4th Semester)",
     currentFocus: ["Scaling MERN Applications", "Integrating LLM APIs"],
     obsession: "High tolerance for debugging middleware & optimizing queries",
     vibe: "Minimalist design 🎨 + Maximalist performance ⚡",
