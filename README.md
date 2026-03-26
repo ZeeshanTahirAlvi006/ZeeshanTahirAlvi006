@@ -1,12 +1,20 @@
 # <p align="center">⚡ ZEESHAN TAHIR ALVI</p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_UNDERGRADUATE-UMT_LAHORE-00d4ff?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN_STACK-DEVELOPER-ff0055?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MISSION-FROM_MEDICAL_TO_AI-00d4ff?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=From+Medical+to+Machine+Intelligence;Building+The+Hive+PK;Mastering+DSA+%26+MERN+Stack" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/EXPERTISE-MERN_STACK_DEVELOPER-ff0055?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ACADEMIC-BS_AI_@_UMT-7700ff?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
+
+<p align="center">
+  <b>The best way to predict the future is to invent it.</b><br>
+  <i>Intelligence is the ability to adapt to change.</i>
+</p>
+
+---
 
 ---
 
@@ -14,7 +22,9 @@
 I am an **Artificial Intelligence undergraduate** at **UMT Lahore**. My journey is unique: I transitioned from a **Medical background** to **Engineering*. I specialize in the **MERN Stack** and high-level algorithmic optimization.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=The+best+way+to+predict+the+future+is+to+invent+it.;From+Biological+Systems+to+Digital+Architectures.;Building+The+Hive+PK+Step-by-Step...;Intelligence+is+the+ability+to+adapt+to+change." alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=The+best+way+to+predict+the+future+is+to+invent+it.;From+Biological+Systems+to+Digital+Architectures.;Full-Stack+MERN+%26+AI+Engineer.;Intelligence+is+the+ability+to+adapt+to+change." alt="Typing SVG" />
+  </a>
 </p>
 
 ---
