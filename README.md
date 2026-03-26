@@ -2,7 +2,7 @@
 
 ### 🌌 Engineering Toolkit
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,node.js,html,css,py,cpp,tailwind,vite,git,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,py,cpp,tailwind,vite,git,postman" />
 </p>
 
 ---
