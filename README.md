@@ -2,65 +2,35 @@
 ### 🚀 Architecting the Future of AI & Web Ecosystems
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=MERN%20+%20AI%20Developer&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://img.shields.io/badge/MERN_Stack-Expert-00d4ff?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/AI_Student-UMT_Lahore-ff0055?style=for-the-badge&logo=google-cloud" />
+  <img src="https://img.shields.io/badge/Logic-DSA_&_MIPS-7700ff?style=for-the-badge&logo=cplusplus" />
 </p>
 
-> "The best way to predict the future is to invent it." — *Alan Kay*
-
 ---
 
-## 🏗️ THE TECH STACK (Layered Architecture)
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" /><br>
-      <b>The Core (MERN)</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=cpp,python,assembly" /><br>
-      <b>Low-Level & Logic</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=tailwind,vite,git" /><br>
-      <b>Frontend & Tooling</b>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 MAJOR PROJECTS
-These projects represent my core expertise in Full-Stack Development, Game Mechanics, and Algorithm Design.
-
-### 🛒 [The Hive PK](https://github.com/ZeeshanTahirAlvi006/thehivepk)
-**Full-Stack Multi-Vendor Ecosystem**
-* A robust e-commerce platform built with the **MERN** stack, featuring complex vendor management and seamless user experiences.
-
-### 🎮 [Arena Project](https://github.com/ZeeshanTahirAlvi006/Arena-Project---SE-THIRD-SEMESTER---JS-HTML-CSS-REACT-and-more)
-**Interactive Web Simulation**
-* A deep dive into **React** and **JavaScript** logic, showcasing UI/UX design and state management for interactive environments.
-
-### 🅿️ [Smart Parking System](https://github.com/ZeeshanTahirAlvi006/smart-parking-system---dsa-theory-final-project)
-**DSA & Optimization**
-* My **Data Structures & Algorithms** final project. Implementing efficient searching and sorting to solve real-world urban logistics.
-
----
-
----
-
-## 🔮 GITHUB HOLOGRAPH (Real-Time Stats)
+## 🏗️ THE TECH STACK (Static Grid)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" width="48%" alt="Zeeshan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" width="48%" alt="Top Languages" />
-</p>
-
-### 📅 COMMIT STREAK & VELOCITY
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanTahirAlvi006&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Streak" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,python,cpp,js,tailwind,vite,git,linux,postman" />
 </p>
 
 ---
+
+## 🏆 MAJOR PROJECTS (Deep Links)
+These are my core engineering feats. Click the icons to explore the codebases.
+
+| Project | Tech Stack | Status |
+| :--- | :--- | :--- |
+| **🛒 [The Hive PK](https://github.com/ZeeshanTahirAlvi006/thehivepk)** | `MERN` `Redux` `Tailwind` | **Active** |
+| **🎮 [Arena Project](https://github.com/ZeeshanTahirAlvi006/Arena-Project---SE-THIRD-SEMESTER---JS-HTML-CSS-REACT-and-more)** | `React` `JS` `CSS3` | **Stable** |
+| **🅿️ [Smart Parking](https://github.com/ZeeshanTahirAlvi006/smart-parking-system---dsa-theory-final-project)** | `C++` `DSA` `Algorithms` | **Complete** |
+
+---
+
+## 📈 GITHUB METRICS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+</p>
 
 ---
 
@@ -70,6 +40,6 @@ $ neofetch --user "Zeeshan"
   
   OS: Windows 11 / Linux (Dual Boot)
   Host: Lenovo ThinkPad E14 Gen 4 @ UMT Lahore
-  Kernel: AI_MERN_V3.0
-  Status: Currently Optimizing...
+  Kernel: AI_MERN_V4.0 (Static_Mode)
+  Status: Coding & Scaling...
   Memory: 16GB High-Speed Logic
