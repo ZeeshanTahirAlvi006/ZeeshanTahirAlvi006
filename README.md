@@ -1,20 +1,13 @@
 # <p align="center">⚡ ZEESHAN TAHIR ALVI</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MISSION-FROM_MEDICAL_TO_AI-00d4ff?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/EXPERTISE-MERN_STACK_DEVELOPER-ff0055?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/ACADEMIC-BS_AI_@_UMT-7700ff?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 <p align="center">
   <b>The best way to predict the future is to invent it.</b><br>
-  <i>Intelligence is the ability to adapt to change.</i>
 </p>
-
----
 
 ---
 
