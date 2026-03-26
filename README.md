@@ -40,9 +40,9 @@
 
 ### 📅 Contribution & Coding Velocity
 <p align="center">
-  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   &nbsp;
-  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
