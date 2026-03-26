@@ -5,6 +5,8 @@
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=MERN%20+%20AI%20Developer&fontSize=70&animation=fadeIn" width="100%" />
 </p>
 
+> "The best way to predict the future is to invent it." — *Alan Kay*
+
 ---
 
 ## 🏗️ THE TECH STACK (Layered Architecture)
@@ -28,21 +30,31 @@
 
 ---
 
-## 🔮 CURRENT VENTURES
-> **"Turning logic into life, one line at a time."**
+## 📌 FEATURED & PINNED PROJECTS
+These represent my primary focus in **Multi-vendor E-commerce** and **AI Research**.
 
-* **🛒 THE HIVE** | Building a massive multi-vendor e-commerce ecosystem.
-* **🧠 AI RESEARCH** | Diving deep into Neural Networks & DSA at **UMT Lahore**.
-* **🎬 KHATTAT-E-CODE** | Creating immersive programming content for the next gen of devs.
+<p align="center">
+  <a href="https://github.com/ZeeshanTahirAlvi006">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeeshanTahirAlvi006&repo=The-Hive&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ZeeshanTahirAlvi006">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeeshanTahirAlvi006&repo=vibechecker&theme=tokyonight" />
+  </a>
+</p>
+
+* **🛒 THE HIVE** | A high-performance multi-vendor platform built with the MERN stack.
+* **🧠 VIBECHECKER** | Exploring sentiment analysis and user experience through AI.
+* **🎬 KHATTAT-E-CODE** | Bridging the gap between artistic logic and machine code.
 
 ---
 
-## 📊 GITHUB REAL-TIME HOLOGRAPH
+## 📈 PERFORMANCE METRICS (Visualized)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
+### 📅 CONTRIBUTION RADIOGRAPH
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanTahirAlvi006&theme=tokyonight" width="100%" />
 </p>
@@ -54,8 +66,7 @@
 $ neofetch --user "Zeeshan"
   
   OS: Windows 11 / Linux (Dual Boot)
-  Host: Lenovo ThinkPad E14 Gen 4
-  Kernel: MERN_STACK_V2
-  Uptime: 24/7 Coding
-  Shell: ZSH / Bash
+  Host: Lenovo ThinkPad E14 Gen 4 @ UMT Lahore
+  Kernel: MERN_STACK_V2.0
+  Uptime: Building the future...
   Memory: 16GB High-Speed Logic
