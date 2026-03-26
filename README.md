@@ -30,25 +30,24 @@
 
 ---
 
-## 📌 FEATURED & PINNED PROJECTS
-These represent my primary focus in **Multi-vendor E-commerce** and **AI Research**.
+## 🏆 MAJOR PROJECTS
+These projects represent my core expertise in Full-Stack Development, Game Mechanics, and Algorithm Design.
 
-<p align="center">
-  <a href="https://github.com/ZeeshanTahirAlvi006">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeeshanTahirAlvi006&repo=The-Hive&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ZeeshanTahirAlvi006">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeeshanTahirAlvi006&repo=vibechecker&theme=tokyonight" />
-  </a>
-</p>
+### 🛒 [The Hive PK](https://github.com/ZeeshanTahirAlvi006/thehivepk)
+**Full-Stack Multi-Vendor Ecosystem**
+* A robust e-commerce platform built with the **MERN** stack, featuring complex vendor management and seamless user experiences.
 
-* **🛒 THE HIVE** | A high-performance multi-vendor platform built with the MERN stack.
-* **🧠 VIBECHECKER** | Exploring sentiment analysis and user experience through AI.
-* **🎬 KHATTAT-E-CODE** | Bridging the gap between artistic logic and machine code.
+### 🎮 [Arena Project](https://github.com/ZeeshanTahirAlvi006/Arena-Project---SE-THIRD-SEMESTER---JS-HTML-CSS-REACT-and-more)
+**Interactive Web Simulation**
+* A deep dive into **React** and **JavaScript** logic, showcasing UI/UX design and state management for interactive environments.
+
+### 🅿️ [Smart Parking System](https://github.com/ZeeshanTahirAlvi006/smart-parking-system---dsa-theory-final-project)
+**DSA & Optimization**
+* My **Data Structures & Algorithms** final project. Implementing efficient searching and sorting to solve real-world urban logistics.
 
 ---
 
-## 📈 PERFORMANCE METRICS (Visualized)
+## 📈 GITHUB HOLOGRAPH (Real-Time Stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=tokyonight" width="48%" />
@@ -67,6 +66,6 @@ $ neofetch --user "Zeeshan"
   
   OS: Windows 11 / Linux (Dual Boot)
   Host: Lenovo ThinkPad E14 Gen 4 @ UMT Lahore
-  Kernel: MERN_STACK_V2.0
-  Uptime: Building the future...
+  Kernel: AI_MERN_V3.0
+  Status: Currently Optimizing...
   Memory: 16GB High-Speed Logic
