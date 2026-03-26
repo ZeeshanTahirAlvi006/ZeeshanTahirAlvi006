@@ -1,6 +1,4 @@
-# <p align="center">⚡ ZEESHAN TAHIR ALVI</p>
-
----
+# <p align="center">ZEESHAN TAHIR ALVI</p>
 
 ### 🌌 Engineering Toolkit
 <p align="center">
