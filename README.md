@@ -56,7 +56,7 @@
 
 ### 🌐 Let's Connect
 <p align="center">
-  <a href="[https://www.linkedin.com/in/zeeshan-tahir-alvi/](https://www.linkedin.com/in/zeeshan-tahir-1a2636389/)">
+  <a href="https://www.linkedin.com/in/zeeshan-tahir-1a2636389/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ZeeshanTahirAlvi006">
