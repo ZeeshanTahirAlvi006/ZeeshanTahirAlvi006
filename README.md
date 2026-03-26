@@ -44,14 +44,15 @@ I am an **Artificial Intelligence undergraduate** at **UMT Lahore**. My journey 
 
 ---
 
-### 📅 Contribution Activity
+### 📅 Contribution & Coding Velocity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZeeshanTahirAlvi006&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Coding Activity" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZeeshanTahirAlvi006&theme=tokyonight" width="48%" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=1.0" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=tokyonight&hide_border=true&v=1.0" width="48%" />
 </p>
 
+### 🌌 Activity Overdrive
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeeshanTahirAlvi006&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeeshanTahirAlvi006&theme=tokyo-night&area=true&hide_border=true&v=1.0" width="100%" />
 </p>
 ---
 
