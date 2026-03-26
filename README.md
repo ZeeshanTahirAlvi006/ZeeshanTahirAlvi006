@@ -1,12 +1,17 @@
 # <p align="center">⚡ ZEESHAN TAHIR ALVI</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=AI%20Student%20|%20MERN%20Developer&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://img.shields.io/badge/AI_UNDERGRADUATE-UMT_LAHORE-00d4ff?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN_STACK-DEVELOPER-ff0055?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=From+Medical+to+Machine+Intelligence;Building+The+Hive+PK;Mastering+DSA+%26+MERN+Stack" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-I am an **Artificial Intelligence undergraduate** at **UMT Lahore**. My journey is unique: I transitioned from a **Medical background** to **Engineering**, bringing a biological perspective to digital architecture. I specialize in the **MERN Stack** and high-level algorithmic optimization.
+I am an **Artificial Intelligence undergraduate** at **UMT Lahore**. My journey is unique: I transitioned from a **Medical background** to **Engineering*. I specialize in the **MERN Stack** and high-level algorithmic optimization.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=The+best+way+to+predict+the+future+is+to+invent+it.;From+Biological+Systems+to+Digital+Architectures.;Building+The+Hive+PK+Step-by-Step...;Intelligence+is+the+ability+to+adapt+to+change." alt="Typing SVG" />
