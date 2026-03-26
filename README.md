@@ -7,7 +7,7 @@
 
 ---
 
-## 🏗️ THE TECH STACK STACK (Layered Architecture)
+## 🏗️ THE TECH STACK (Layered Architecture)
 
 <table align="center">
   <tr>
@@ -31,7 +31,7 @@
 ## 🔮 CURRENT VENTURES
 > **"Turning logic into life, one line at a time."**
 
-* **🛒 THE HIVE** | Building a massive 3D-inspired multi-vendor e-commerce ecosystem.
+* **🛒 THE HIVE** | Building a massive multi-vendor e-commerce ecosystem.
 * **🧠 AI RESEARCH** | Diving deep into Neural Networks & DSA at **UMT Lahore**.
 * **🎬 KHATTAT-E-CODE** | Creating immersive programming content for the next gen of devs.
 
@@ -39,12 +39,12 @@
 
 ## 📊 GITHUB REAL-TIME HOLOGRAPH
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanTahirAlvi006&theme=tokyonight" width="100%" />
 </p>
 
 ---
