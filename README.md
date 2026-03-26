@@ -47,16 +47,20 @@ These projects represent my core expertise in Full-Stack Development, Game Mecha
 
 ---
 
-## 📈 GITHUB HOLOGRAPH (Real-Time Stats)
+---
+
+## 🔮 GITHUB HOLOGRAPH (Real-Time Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" width="48%" alt="Zeeshan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" width="48%" alt="Top Languages" />
 </p>
 
-### 📅 CONTRIBUTION RADIOGRAPH
+### 📅 COMMIT STREAK & VELOCITY
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanTahirAlvi006&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanTahirAlvi006&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Streak" />
 </p>
+
+---
 
 ---
 
