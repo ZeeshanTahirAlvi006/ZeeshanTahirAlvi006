@@ -44,17 +44,6 @@ I am an **Artificial Intelligence undergraduate** at **UMT Lahore**. My journey 
 
 ---
 
-### 🗺️ The Hive PK: Development Roadmap
-<p align="center">
-  <img src="https://mermaid.ink/img/pako:eNptkEELwjAMhf_KkvO6_QMe9SBe9SBeS9tV6GAnW7uDIP7vTttBxEPy8vLybclAtZKBp_mYV9ByV6i086Y3NoVzW_YpQZ3Xm029L9mH_D6N8_t0965iV3MIn6VvNf8-h-X2Wf6lU2I1_6pU9vYpYFq9R0F_LqF_Duvts_xL9ZkO99M10-Zp2M_T7Odp9vM0-6U-C_A7S4B5eAKuYp4" alt="Roadmap" />
-</p>
-
-1. **Phase 1: Foundation** - MERN Core & Multi-vendor Auth (Complete ✅)
-2. **Phase 2: Scalability** - Real-time Inventory & Payment Gateways (In Progress 🏗️)
-3. **Phase 3: Intelligence** - AI-driven Product Recommendations (Planned 🔮)
-
----
-
 ### 📈 GitHub Metrics & Holograph
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
