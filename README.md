@@ -1,31 +1,25 @@
 # <p align="center">⚡ ZEESHAN TAHIR ALVI</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EXPERTISE-MERN_STACK_DEVELOPER-ff0055?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/ACADEMIC-BS_AI_@_UMT-7700ff?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>The best way to predict the future is to invent it.</b><br>
+  <img src="https://img.shields.io/badge/EXPERT-MERN_STACK-00d4ff?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOGIC-PYTHON_&_C++-ff0055?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CORE-HTML_CSS_JS-7700ff?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 About Me
-I am an **Artificial Intelligence undergraduate** at **UMT Lahore**. My journey is unique: I transitioned from a **Medical background** to **Engineering*. I specialize in the **MERN Stack** and high-level algorithmic optimization.
-
+### 🌌 Engineering Toolkit
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=The+best+way+to+predict+the+future+is+to+invent+it.;From+Biological+Systems+to+Digital+Architectures.;Full-Stack+MERN+%26+AI+Engineer.;Intelligence+is+the+ability+to+adapt+to+change." alt="Typing SVG" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,node,js,html,css,py,cpp,tailwind,vite,git,linux,postman" />
 </p>
 
 ---
 
-### 🏗️ My Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,python,cpp,js,tailwind,vite,git,linux,postman,figma,mysql" />
-</p>
+### 🚀 Expertise Overview
+* **Full-Stack Development:** Architecting end-to-end solutions using the **MERN** ecosystem.
+* **Systems Programming:** Building high-performance logic with **C++** and **Python**.
+* **Modern Web Standards:** Crafting responsive, high-fidelity UIs with **Tailwind CSS** and **Vite**.
+* **AI & Algorithms:** Applying **Data Structures** and **Neural Logic** (BS AI @ UMT).
 
 ---
 
