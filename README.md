@@ -39,11 +39,21 @@
 ---
 
 ### 📅 Contribution & Coding Velocity
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Zeeshan's Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ### 🌌 Activity Overdrive
 <p align="center">
