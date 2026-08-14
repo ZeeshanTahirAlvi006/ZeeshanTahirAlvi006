@@ -19,14 +19,31 @@
 <table align="center">
   <tr>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Project-The_Hive_PK-orange?style=for-the-badge&logo=shopify" /><br/>
+      <img src="https://img.shields.io/badge/Project-CRM_MERN_TypeScript-blue?style=for-the-badge&logo=react" /><br/>
+      <b>Full-Stack CRM System</b><br/>
+      <a href="https://github.com/ZeeshanTahirAlvi006/CRM---MERN-TypeScript">View Repo</a>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Project-MoodMap_AI-purple?style=for-the-badge&logo=brain" /><br/>
+      <b>AI Music & Mental Health</b><br/>
+      <a href="https://github.com/ZeeshanTahirAlvi006/MoodMap-AI-Music-and-Mental-Health-Profiler">View Repo</a>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Project-Mezan_Nutrition_AI-green?style=for-the-badge&logo=robot" /><br/>
+      <b>AI Nutrition Profiler</b><br/>
+      <a href="https://github.com/ZeeshanTahirAlvi006/Mezan-Nutrition-AI">View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Project-TheHivePK-orange?style=for-the-badge&logo=shopify" /><br/>
       <b>Multi-vendor E-commerce</b><br/>
       <a href="https://github.com/ZeeshanTahirAlvi006/thehivepk">View Repo</a>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Project-Arena_Project-blue?style=for-the-badge&logo=react" /><br/>
-      <b>Interactive Web Sim</b><br/>
-      <a href="https://github.com/ZeeshanTahirAlvi006/Arena-Project---SE-THIRD-SEMESTER---JS-HTML-CSS-REACT-and-more">View Repo</a>
+      <img src="https://img.shields.io/badge/Project-Flutter_Recipe_App-red?style=for-the-badge&logo=flutter" /><br/>
+      <b>Mobile Development</b><br/>
+      <a href="https://github.com/ZeeshanTahirAlvi006/Flutter---Recipe-App">View Repo</a>
     </td>
     <td width="33%" align="center">
       <img src="https://img.shields.io/badge/Project-Smart_Parking-green?style=for-the-badge&logo=cplusplus" /><br/>
