@@ -1,13 +1,13 @@
 # <p align="center">ZEESHAN TAHIR ALVI</p>
 
-### 🌌 Engineering Toolkit
+### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,py,cpp,tailwind,vite,git,postman,ts" />
 </p>
 
 ---
 
-### 🚀 Expertise Overview
+### Expertise Overview
 * **Full-Stack Development:** Architecting end-to-end solutions using the **MERN** ecosystem.
 * **Systems Programming:** Building high-performance logic with **C++** and **Python**.
 * **Modern Web Standards:** Crafting responsive, high-fidelity UIs with **Tailwind CSS** and **Vite**.
@@ -15,7 +15,7 @@
 
 ---
 
-### 🏆 Major Projects
+### Major Projects
 <table align="center">
   <tr>
     <td width="33%" align="center">
@@ -55,7 +55,7 @@
 
 ---
 
-### 📅 Contribution & Coding Velocity
+### Contributions
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZeeshanTahirAlvi006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   &nbsp;
@@ -64,14 +64,14 @@
 
 ---
 
-### 🌌 Activity Overdrive
+### Activity Overdrive
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeeshanTahirAlvi006&theme=tokyo-night&area=true&hide_border=true&v=1.0" width="100%" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/zeeshan-tahir-1a2636389/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -83,7 +83,7 @@
 
 ---
 
-### 🎨 Beyond the IDE
+###  Beyond the IDE
 When the code gets complex, I find clarity by caring for my **Indian Ringnecks** and **Budgies**. Patience and observation are key in both bird-keeping and debugging!
 
 <p align="right">
