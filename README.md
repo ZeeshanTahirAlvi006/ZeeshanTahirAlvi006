@@ -2,16 +2,19 @@
 
 ### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,py,cpp,tailwind,vite,git,postman,ts" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,py,cpp,tailwind,vite,git,postman,ts,flutter,dart,docker,vercel" />
 </p>
 
 ---
 
 ### Expertise Overview
-* **Full-Stack Development:** Architecting end-to-end solutions using the **MERN** ecosystem.
-* **Systems Programming:** Building high-performance logic with **C++** and **Python**.
-* **Modern Web Standards:** Crafting responsive, high-fidelity UIs with **Tailwind CSS** and **Vite**.
-* **AI & Algorithms:** Applying **Data Structures** and **Neural Logic** (BS AI @ UMT).
+* **Full-Stack Development:** Architecting end-to-end solutions using the **MERN** ecosystem and **TypeScript** for scalable frontends and backends.
+* **AI & Machine Learning:** Building data-driven features and ML-backed services (projects like **Mezan-Nutrition-AI**, **MoodMap-AI**). Comfortable prototyping in **Python** and integrating models into web services.
+* **Mobile Development:** Developing cross-platform apps with **Flutter (Dart)** for production-ready mobile experiences.
+* **Systems & Algorithms:** Implementing performant logic with **C++** and Python for DSA and optimization problems.
+* **Modern Web UI:** Crafting responsive, accessible, and fast user interfaces using **React**, **Tailwind CSS**, and **Vite**.
+* **Deployment & DevOps:** Experience deploying and hardening apps on platforms like **Vercel** and **Render**, containerization with **Docker**, and basic CI/CD practices.
+* **Security & Reliability:** Applying security-hardening, resilience and monitoring practices (rate-limiting, DDoS considerations, backup/retry fallbacks observed in recent project work).
 
 ---
 
@@ -42,13 +45,20 @@
     </td>
     <td width="33%" align="center">
       <img src="https://img.shields.io/badge/Project-Flutter_Recipe_App-red?style=for-the-badge&logo=flutter" /><br/>
-      <b>Mobile Development</b><br/>
+      <b>Mobile Development (Flutter)</b><br/>
       <a href="https://github.com/ZeeshanTahirAlvi006/Flutter---Recipe-App">View Repo</a>
     </td>
     <td width="33%" align="center">
       <img src="https://img.shields.io/badge/Project-Smart_Parking-green?style=for-the-badge&logo=cplusplus" /><br/>
       <b>DSA Optimization</b><br/>
       <a href="https://github.com/ZeeshanTahirAlvi006/smart-parking-system---dsa-theory-final-project">View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://img.shields.io/badge/Project-Arena_Project-blueviolet?style=for-the-badge&logo=react" /><br/>
+      <b>Arena — Web App (React/JS/HTML/CSS)</b><br/>
+      <a href="https://github.com/ZeeshanTahirAlvi006/Arena-Project---SE-THIRD-SEMESTER---JS-HTML-CSS-REACT-and-more">View Repo</a>
     </td>
   </tr>
 </table>
@@ -61,6 +71,13 @@
   &nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZeeshanTahirAlvi006&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### Recent activity highlights
+- Multiple releases and feature iterations on Mezan-Nutrition-AI (backend resilience, UX improvements, several merged PRs).
+- Multi-vendor e-commerce work and deployments for thehivepk.
+- Architecture and hardening proposals for Arena Project including deployment considerations (Vercel/Render) and real-time features planning.
 
 ---
 
